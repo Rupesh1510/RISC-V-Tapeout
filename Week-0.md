@@ -1,5 +1,17 @@
 # Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup
 
+## 📦 **Tools Installed in Week 0 - Task 0**
+
+#### **Core RTL Design & Synthesis Tools**
+
+| Tool | Purpose | Verification |
+|------|---------|--------------|
+| 🧠 **Yosys** | RTL Synthesis & Logic Optimization | ✅ Verified |
+| 📟 **Iverilog** | Verilog Simulation & Compilation | ✅ Verified |
+| 📊 **GTKWave** | Waveform Viewer & Analysis | ✅ Verified |
+| ⚡ **Ngspice** | Analog & Mixed-Signal Simulation | ✅ Verified |
+| 🎨 **Magic VLSI** | Layout Design & DRC Verification | ✅ Verified |
+
 ## 1. Yosys – RTL Synthesis Tool Installation 
 
 ~~~
