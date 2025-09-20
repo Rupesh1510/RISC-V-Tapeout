@@ -28,6 +28,8 @@
  
 ~~~
 
+<img width="1913" height="1044" alt="image" src="https://github.com/user-attachments/assets/2f7a7e56-3435-4ba8-9aa5-1038682c4012" />
+
 
 ## 2. Iverilog Installation 
 
